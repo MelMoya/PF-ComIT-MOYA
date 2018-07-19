@@ -1,0 +1,82 @@
+.resenia{
+	padding-top: 2em;
+}
+.resenia #row{
+	display: inline-block;
+	padding: 2em;
+}
+.resenia #selectbasic{
+	width: 10em;
+}
+
+.resenia #estrellas {
+  font-size: 30px;
+  text-align: left;
+  color:#99CCCC;
+
+}
+
+.resenia #estrellas input[type="radio"] {
+  display: none;
+}
+
+.resenia .clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.resenia label:hover,
+label:hover ~ label {
+  color: #3300FF;
+}
+
+.resenia input[type="radio"]:checked ~ label {
+  color: #3300FF;
+}
+
+.resenia #txtResenia{
+	width: 50em;
+	text-align: right;
+}
+.resenia #resenia{
+	height: 100em;
+
+}
+.resenia #singlebutton{
+	margin:1em;
+}
+
+.resenia .row{
+  /*display: table-row;*/
+}
+.resenia #colPortada #colInfo{
+  display:table-cell;
+}
+.resenia #FotoPortada{
+	width: 10em;
+	height: 15em;
+  /*margin-top: 4em;*/
+}
+.resenia #colPortada{
+  text-align: right;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.resenia #txtResenia p{
+	text-align: center;
+}
+
+.resenia #colResenia{
+	padding-top:2em;
+}
+
+.resenia #rowEditar{
+  text-align: right;
+}
+
+.resenia #textareaResenia{
+	width: 100%;
+}
+.resenia #rowGuardar{
+	text-align: right;
+}

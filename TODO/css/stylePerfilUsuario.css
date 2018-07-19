@@ -1,0 +1,12 @@
+.perfilUsuario #navbar{
+	background: #CCCCFF;
+	border: none;
+  float:right;
+  margin-right:2em;
+}
+.perfilUsuario #navbar a{
+	color:white;
+}
+.perfilUsuario #navbar a:hover{
+	color:blue;
+}

@@ -1,0 +1,18 @@
+.classEditar{
+	text-align: center;
+}
+.classEditar #rowBody{
+
+	text-align: center;
+	padding-top: 2em;
+}
+.classEditar #colFoto{
+	padding:5em;
+}
+.classEditar #colFoto img{
+	width: 10em;
+	height: 10em;
+}
+.classEditar #claseButton{
+	padding: 1em;
+}

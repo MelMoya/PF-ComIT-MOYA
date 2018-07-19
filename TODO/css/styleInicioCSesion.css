@@ -1,0 +1,30 @@
+body{
+	  background-image: url("http://localhost/ProyectoFinal/TODO/biblioteca.jpg");
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-size: cover;
+}
+.inicioCSesion .infoLibro{
+  margin: center;
+}
+#infoLibro{
+	  background-color: rgba(244,244,244, 1);
+		padding-top: 1em;
+}
+#img1{
+	width: 6em;
+	height: 6em;
+}
+#rowPerfilInfo{
+	margin:center;
+	text-align: center;
+}
+#colPerfilInfo{
+	background-color: rgba(244,244,244, 0.7);
+}
+#nombreG{
+	padding: 0.5em;
+	font-size: 3em;
+	text-align: center;
+	background-color: rgba(244,244,244, 0.8);
+}

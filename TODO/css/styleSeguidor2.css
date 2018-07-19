@@ -1,0 +1,19 @@
+.bodySeguidores  #tituloSeguidos{
+  padding:3em;
+  text-align: center;
+}
+
+.bodySeguidores #seguidor{
+  padding-bottom: 1.5em;
+}
+.bodySeguidores .row{
+  padding-bottom: 2em;
+}
+.bodySeguidores #fotoU{
+	width: 4em;
+	height: 4em;
+  text-align: center;
+}
+.bodySeguidores #cUsuario{
+  text-align: center;
+}

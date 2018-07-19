@@ -1,0 +1,65 @@
+.pagina{
+	background-image: url("http://localhost/ProyectoFinal/TODO/biblioteca.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.pagina #row{
+	display: inline-block;
+	padding: 2em;
+}
+.pagina #selectbasic{
+	width: 10em;
+}
+
+.pagina #estrellas {
+  font-size: 30px;
+  text-align: left;
+  color:#99CCCC;
+
+}
+
+.pagina #estrellas input[type="radio"] {
+  display: none;
+}
+
+.pagina .clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.pagina label:hover,
+label:hover ~ label {
+  color: #3300FF;
+}
+
+.pagina input[type="radio"]:checked ~ label {
+  color: #3300FF;
+}
+
+.pagina #fotoUsuario{
+	width: 4em;
+	height: 4em;
+}
+
+.pagina #txtResenia{
+	width: 50em;
+	text-align: right;
+}
+.pagina #resenia{
+	height: 100em;
+}
+.pagina #singlebutton{
+	margin:1em;
+}
+.pagina #FotoPortada{
+	width: 30em;
+	height: 40em;
+}
+.pagina #txtResenia p{
+	text-align: left;
+}
+#colInfo{
+	  background-color: rgba(244,244,244, 0.8);
+		padding-top: 1em;
+}

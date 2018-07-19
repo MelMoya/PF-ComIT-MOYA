@@ -1,0 +1,31 @@
+.menuCSesion form{
+	padding-left: 6em;
+}
+.menuCSesion #navbar{
+	background-color: #3399FF;
+	border-color: #3399FF;
+	margin-bottom: 0;
+}
+.menuCSesion #search{
+	width: 25em;
+}
+.menuCSesion #titulo{
+	font-size: 2.3em;
+	color: white;
+}
+.menuCSesion #imgHeader{
+	width: 4em;
+	height: 4em;
+}
+.menuCSesion #iconosMenu button{
+	display: inline-block;
+	background-color: #3399ff;
+	border:none;
+}
+.menuCSesion #iconosMenu img{
+	width: 3em;
+	height: 3em;
+}
+.menuCSesion #iconosMenu li{
+	padding-right: 1.5em;
+}

@@ -1,0 +1,58 @@
+.biblioteca .menu{
+	  /*background-image: url("http://localhost/ProyectoFinal/TODO/biblioteca.jpg");
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-size: cover;
+		*/
+	}
+.biblioteca #navbar{
+	background: #CCCCFF;
+	border: none;
+  float:right;
+
+}
+.biblioteca nav{
+	text-align: right;
+}
+.biblioteca #navbar a{
+	color:white;
+}
+.biblioteca #navbar a:hover{
+	color:blue;
+}
+.biblioteca{
+	padding-top: 1.5em;
+}
+#infoLibro #selectbasic{
+	width: 10em;
+}
+
+#infoLibro #estrellas {
+  font-size: 30px;
+  text-align: left;
+  color:#99CCCC;
+
+}
+
+#infoLibro #estrellas input[type="radio"] {
+  display: none;
+}
+
+#infoLibro .clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+#infoLibro label:hover,
+label:hover ~ label {
+  color: #3300FF;
+}
+
+#infoLibro input[type="radio"]:checked ~ label {
+  color: #3300FF;
+}
+#infoLibro #foto{
+	width: 10em;
+	height: 15em;
+  /*margin-top: 4em;*/
+}

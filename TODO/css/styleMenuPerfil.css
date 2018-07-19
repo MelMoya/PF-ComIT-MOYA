@@ -1,0 +1,33 @@
+.perfil{
+  padding: 1em;
+  /*background-image: url("http://localhost/ProyectoFinal/TODO/fondoMenuPerfil.jpg");
+  background: #F8F8FF;
+  border-bottom: double #3399FF;
+  box-shadow: 2px 2px 5px #3399FF; */
+    background-image: url("http://localhost/ProyectoFinal/TODO/fondoMenuPerfil3.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  box-shadow: 2px 4px 5px -2px #3399FF;
+
+}
+.perfil #foto img{
+	width: 8em;
+	height: 8em;
+}
+.perfil #bEditarPerfil{
+  width: 100%;
+}
+.perfil #rowMenu{
+  text-align: center;
+}
+.perfil #rowResenia{
+  padding-top: 2em;
+}
+/*NO FUNCIONA
+#botones{
+  margin: 0 auto;
+  margin:center;
+  text-align: center;
+
+*/
